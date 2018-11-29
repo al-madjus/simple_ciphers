@@ -1,0 +1,148 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | other etag | other fileId | other instruction
+#=#=#=# Syncrun started 2018-11-20T14:00:36Z
+#=#=#=#=# Propagation starts 2018-11-20T14:00:36Z (last step: 281 msec, total: 281 msec)
+14:00:36||crypto.py|INST_NEW|Down|1542719150|7f4e885164827e4de4a4b3d8876e9036|1305|00027400ocdhcqykhhjt|4||0|0|0||||
+#=#=#=# Syncrun finished 2018-11-20T14:00:37Z (last step: 529 msec, total: 811 msec)
+#=#=#=# Syncrun started 2018-11-20T14:03:12Z
+#=#=#=#=# Propagation starts 2018-11-20T14:03:12Z (last step: 212 msec, total: 212 msec)
+14:03:12||crypto.py|INST_SYNC|Up|1542722590|efb3cff76bbbd685718e2a6f94efa232|1310|00027400ocdhcqykhhjt|4||204|1305|1542719150||||
+#=#=#=# Syncrun finished 2018-11-20T14:03:18Z (last step: 5858 msec, total: 6070 msec)
+#=#=#=# Syncrun started 2018-11-20T14:04:03Z
+#=#=#=#=# Propagation starts 2018-11-20T14:04:03Z (last step: 323 msec, total: 323 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:04:04Z (last step: 967 msec, total: 1291 msec)
+#=#=#=# Syncrun started 2018-11-20T14:07:45Z
+#=#=#=#=# Propagation starts 2018-11-20T14:07:45Z (last step: 294 msec, total: 294 msec)
+14:07:45||crypto.py|INST_SYNC|Up|1542722862|c0e7b593ce38c3941ddd7240d481435e|1380|00027400ocdhcqykhhjt|4||204|1310|1542722590||||
+#=#=#=# Syncrun finished 2018-11-20T14:07:51Z (last step: 5931 msec, total: 6225 msec)
+#=#=#=# Syncrun started 2018-11-20T14:08:33Z
+#=#=#=#=# Propagation starts 2018-11-20T14:08:33Z (last step: 255 msec, total: 255 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:08:33Z (last step: 75 msec, total: 331 msec)
+#=#=#=# Syncrun started 2018-11-20T14:09:56Z
+#=#=#=#=# Propagation starts 2018-11-20T14:09:57Z (last step: 457 msec, total: 457 msec)
+14:09:57||crypto.py|INST_SYNC|Up|1542722994|d64220c009f7928173ddcb75b38dab47|1380|00027400ocdhcqykhhjt|4||204|1380|1542722862||||
+#=#=#=# Syncrun finished 2018-11-20T14:09:58Z (last step: 1906 msec, total: 2364 msec)
+#=#=#=# Syncrun started 2018-11-20T14:10:33Z
+#=#=#=#=# Propagation starts 2018-11-20T14:10:33Z (last step: 290 msec, total: 290 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:10:33Z (last step: 194 msec, total: 485 msec)
+#=#=#=# Syncrun started 2018-11-20T14:11:00Z
+#=#=#=#=# Propagation starts 2018-11-20T14:11:00Z (last step: 484 msec, total: 484 msec)
+14:11:00||crypto.py|INST_SYNC|Up|1542723057|50e861b8068f519c2da17af4d4180593|1374|00027400ocdhcqykhhjt|4||204|1380|1542722994||||
+#=#=#=# Syncrun finished 2018-11-20T14:11:03Z (last step: 2604 msec, total: 3088 msec)
+#=#=#=# Syncrun started 2018-11-20T14:11:28Z
+#=#=#=#=# Propagation starts 2018-11-20T14:11:29Z (last step: 436 msec, total: 436 msec)
+14:11:29||crypto.py|INST_SYNC|Up|1542723086|1f1dd6229a2b96dcc64b93724b67d108|1331|00027400ocdhcqykhhjt|4||204|1374|1542723057||||
+#=#=#=# Syncrun finished 2018-11-20T14:11:30Z (last step: 1350 msec, total: 1786 msec)
+#=#=#=# Syncrun started 2018-11-20T14:12:03Z
+#=#=#=#=# Propagation starts 2018-11-20T14:12:03Z (last step: 351 msec, total: 351 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:12:05Z (last step: 2278 msec, total: 2629 msec)
+#=#=#=# Syncrun started 2018-11-20T14:12:39Z
+#=#=#=#=# Propagation starts 2018-11-20T14:12:39Z (last step: 211 msec, total: 211 msec)
+14:12:39||crypto.py|INST_SYNC|Up|1542723157|d1e23378d81ea003196f25d59973835f|1353|00027400ocdhcqykhhjt|4||204|1331|1542723086||||
+#=#=#=# Syncrun finished 2018-11-20T14:12:43Z (last step: 3530 msec, total: 3741 msec)
+#=#=#=# Syncrun started 2018-11-20T14:13:33Z
+#=#=#=#=# Propagation starts 2018-11-20T14:13:33Z (last step: 244 msec, total: 244 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:13:33Z (last step: 53 msec, total: 298 msec)
+#=#=#=# Syncrun started 2018-11-20T14:13:36Z
+#=#=#=#=# Propagation starts 2018-11-20T14:13:36Z (last step: 285 msec, total: 285 msec)
+14:13:37||crypto.py|INST_SYNC|Up|1542723214|54e5ea1615a2694998aa5668877b90c9|1377|00027400ocdhcqykhhjt|4||204|1353|1542723157||||
+#=#=#=# Syncrun finished 2018-11-20T14:13:41Z (last step: 4946 msec, total: 5232 msec)
+#=#=#=# Syncrun started 2018-11-20T14:14:33Z
+#=#=#=#=# Propagation starts 2018-11-20T14:14:33Z (last step: 290 msec, total: 290 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:14:33Z (last step: 177 msec, total: 468 msec)
+#=#=#=# Syncrun started 2018-11-20T14:16:10Z
+#=#=#=#=# Propagation starts 2018-11-20T14:16:10Z (last step: 227 msec, total: 227 msec)
+14:16:10||crypto.py|INST_SYNC|Up|1542723368|21029238cd370ff98b7acc99e161da0c|1746|00027400ocdhcqykhhjt|4||204|1377|1542723214||||
+#=#=#=# Syncrun finished 2018-11-20T14:16:12Z (last step: 1959 msec, total: 2187 msec)
+#=#=#=# Syncrun started 2018-11-20T14:17:03Z
+#=#=#=#=# Propagation starts 2018-11-20T14:17:03Z (last step: 318 msec, total: 318 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:17:03Z (last step: 203 msec, total: 522 msec)
+#=#=#=# Syncrun started 2018-11-20T14:17:45Z
+#=#=#=#=# Propagation starts 2018-11-20T14:17:45Z (last step: 251 msec, total: 252 msec)
+14:17:46||crypto.py|INST_SYNC|Up|1542723463|9a5d32a5b05070e17671ca642e5719f4|1832|00027400ocdhcqykhhjt|4||204|1746|1542723368||||
+#=#=#=# Syncrun finished 2018-11-20T14:17:48Z (last step: 2885 msec, total: 3137 msec)
+#=#=#=# Syncrun started 2018-11-20T14:18:04Z
+#=#=#=#=# Propagation starts 2018-11-20T14:18:04Z (last step: 316 msec, total: 316 msec)
+14:18:04||crypto.py|INST_SYNC|Up|1542723482|929a3f2eb45b91a43636013f2f0dbdb4|1832|00027400ocdhcqykhhjt|4||204|1832|1542723463||||
+#=#=#=# Syncrun finished 2018-11-20T14:18:06Z (last step: 1206 msec, total: 1523 msec)
+#=#=#=# Syncrun started 2018-11-20T14:18:54Z
+#=#=#=#=# Propagation starts 2018-11-20T14:18:54Z (last step: 423 msec, total: 423 msec)
+14:18:54||crypto.py|INST_SYNC|Up|1542723532|2e54199fc7ab4553402eb8359b8cdbaf|1832|00027400ocdhcqykhhjt|4||204|1832|1542723482||||
+#=#=#=# Syncrun finished 2018-11-20T14:18:56Z (last step: 2002 msec, total: 2425 msec)
+#=#=#=# Syncrun started 2018-11-20T14:19:33Z
+#=#=#=#=# Propagation starts 2018-11-20T14:19:33Z (last step: 289 msec, total: 289 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:19:33Z (last step: 104 msec, total: 394 msec)
+#=#=#=# Syncrun started 2018-11-20T14:20:12Z
+#=#=#=#=# Propagation starts 2018-11-20T14:20:12Z (last step: 261 msec, total: 261 msec)
+14:20:12||crypto.py|INST_SYNC|Up|1542723610|6aba5e3f22053ed2f98f038d988175d5|1830|00027400ocdhcqykhhjt|4||204|1832|1542723532||||
+#=#=#=# Syncrun finished 2018-11-20T14:20:14Z (last step: 1272 msec, total: 1533 msec)
+#=#=#=# Syncrun started 2018-11-20T14:21:03Z
+#=#=#=#=# Propagation starts 2018-11-20T14:21:03Z (last step: 346 msec, total: 346 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:21:03Z (last step: 84 msec, total: 430 msec)
+#=#=#=# Syncrun started 2018-11-20T14:22:21Z
+#=#=#=#=# Propagation starts 2018-11-20T14:22:22Z (last step: 203 msec, total: 203 msec)
+14:22:22||crypto.py|INST_SYNC|Up|1542723739|76910b57b89cb3a7b277db8470bafc02|1909|00027400ocdhcqykhhjt|4||204|1830|1542723610||||
+#=#=#=# Syncrun finished 2018-11-20T14:22:25Z (last step: 3292 msec, total: 3496 msec)
+#=#=#=# Syncrun started 2018-11-20T14:23:03Z
+#=#=#=#=# Propagation starts 2018-11-20T14:23:03Z (last step: 223 msec, total: 223 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:23:03Z (last step: 77 msec, total: 300 msec)
+#=#=#=# Syncrun started 2018-11-20T14:23:18Z
+#=#=#=#=# Propagation starts 2018-11-20T14:23:18Z (last step: 249 msec, total: 249 msec)
+14:23:18||crypto.py|INST_SYNC|Up|1542723796|700d394db7c264fea4c7d4ebc8e8bbba|1994|00027400ocdhcqykhhjt|4||204|1909|1542723739||||
+#=#=#=# Syncrun finished 2018-11-20T14:23:20Z (last step: 1233 msec, total: 1482 msec)
+#=#=#=# Syncrun started 2018-11-20T14:23:58Z
+#=#=#=#=# Propagation starts 2018-11-20T14:23:59Z (last step: 433 msec, total: 433 msec)
+14:23:59||crypto.py|INST_SYNC|Up|1542723836|9d1289ef519dadccc6f4c463376f45b1|2019|00027400ocdhcqykhhjt|4||204|1994|1542723796||||
+#=#=#=# Syncrun finished 2018-11-20T14:24:01Z (last step: 2083 msec, total: 2517 msec)
+#=#=#=# Syncrun started 2018-11-20T14:24:33Z
+#=#=#=#=# Propagation starts 2018-11-20T14:24:33Z (last step: 212 msec, total: 212 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:24:33Z (last step: 186 msec, total: 399 msec)
+#=#=#=# Syncrun started 2018-11-20T14:26:09Z
+#=#=#=#=# Propagation starts 2018-11-20T14:26:09Z (last step: 251 msec, total: 251 msec)
+14:26:09||crypto.py|INST_SYNC|Up|1542723967|4df8f60d75bb009fc952584d40036866|2194|00027400ocdhcqykhhjt|4||204|2019|1542723836||||
+#=#=#=# Syncrun finished 2018-11-20T14:26:10Z (last step: 1113 msec, total: 1365 msec)
+#=#=#=# Syncrun started 2018-11-20T14:26:52Z
+#=#=#=#=# Propagation starts 2018-11-20T14:26:52Z (last step: 334 msec, total: 334 msec)
+14:26:52||crypto.py|INST_SYNC|Up|1542724010|a697d7958535b921829289b60665779a|2195|00027400ocdhcqykhhjt|4||204|2194|1542723967||||
+#=#=#=# Syncrun finished 2018-11-20T14:26:56Z (last step: 3715 msec, total: 4049 msec)
+#=#=#=# Syncrun started 2018-11-20T14:27:09Z
+#=#=#=#=# Propagation starts 2018-11-20T14:27:09Z (last step: 236 msec, total: 236 msec)
+14:27:09||crypto.py|INST_SYNC|Up|1542724027|2118cc39e27e98804f60129f2d4217f6|2163|00027400ocdhcqykhhjt|4||204|2195|1542724010||||
+#=#=#=# Syncrun finished 2018-11-20T14:27:10Z (last step: 892 msec, total: 1128 msec)
+#=#=#=# Syncrun started 2018-11-20T14:28:03Z
+#=#=#=#=# Propagation starts 2018-11-20T14:28:03Z (last step: 342 msec, total: 342 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:28:04Z (last step: 1185 msec, total: 1528 msec)
+#=#=#=# Syncrun started 2018-11-20T14:28:40Z
+#=#=#=#=# Propagation starts 2018-11-20T14:28:40Z (last step: 244 msec, total: 244 msec)
+14:28:40||crypto.py|INST_SYNC|Up|1542724118|bd5d7dc6e90c2a9f3f62c8ddc782a619|2138|00027400ocdhcqykhhjt|4||204|2163|1542724027||||
+#=#=#=# Syncrun finished 2018-11-20T14:28:43Z (last step: 3030 msec, total: 3275 msec)
+#=#=#=# Syncrun started 2018-11-20T14:29:33Z
+#=#=#=#=# Propagation starts 2018-11-20T14:29:33Z (last step: 296 msec, total: 296 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:29:33Z (last step: 169 msec, total: 465 msec)
+#=#=#=# Syncrun started 2018-11-20T14:29:56Z
+#=#=#=#=# Propagation starts 2018-11-20T14:29:56Z (last step: 449 msec, total: 449 msec)
+14:29:57||crypto.py|INST_SYNC|Up|1542724194|8acdbd01274a9c402b1027a175882544|2124|00027400ocdhcqykhhjt|4||204|2138|1542724118||||
+#=#=#=# Syncrun finished 2018-11-20T14:29:58Z (last step: 1231 msec, total: 1681 msec)
+#=#=#=# Syncrun started 2018-11-20T14:30:20Z
+#=#=#=#=# Propagation starts 2018-11-20T14:30:21Z (last step: 346 msec, total: 346 msec)
+14:30:21||crypto.py|INST_SYNC|Up|1542724218|9dc8d4854ac08e7f839549379c00a88d|2126|00027400ocdhcqykhhjt|4||204|2124|1542724194||||
+#=#=#=# Syncrun finished 2018-11-20T14:30:27Z (last step: 6641 msec, total: 6987 msec)
+#=#=#=# Syncrun started 2018-11-20T14:30:35Z
+#=#=#=#=# Propagation starts 2018-11-20T14:30:35Z (last step: 245 msec, total: 245 msec)
+14:30:34||crypto.py|INST_SYNC|Up|1542724232|a60fc0d51f1703da63f480cff40b4cf2|2128|00027400ocdhcqykhhjt|4||204|2126|1542724218||||
+#=#=#=# Syncrun finished 2018-11-20T14:30:38Z (last step: 2821 msec, total: 3067 msec)
+#=#=#=# Syncrun started 2018-11-20T14:31:01Z
+#=#=#=#=# Propagation starts 2018-11-20T14:31:02Z (last step: 642 msec, total: 642 msec)
+14:31:01||crypto.py|INST_SYNC|Up|1542724259|ab9fb403bbfbe0ff617c8634ff6b5ce0|2133|00027400ocdhcqykhhjt|4||204|2128|1542724232||||
+#=#=#=# Syncrun finished 2018-11-20T14:31:03Z (last step: 1275 msec, total: 1918 msec)
+#=#=#=# Syncrun started 2018-11-20T14:32:03Z
+#=#=#=#=# Propagation starts 2018-11-20T14:32:03Z (last step: 288 msec, total: 288 msec)
+#=#=#=# Syncrun finished 2018-11-20T14:32:06Z (last step: 3411 msec, total: 3700 msec)
+#=#=#=# Syncrun started 2018-11-23T18:36:48Z
+#=#=#=#=# Propagation starts 2018-11-23T18:37:04Z (last step: 15445 msec, total: 15445 msec)
+||crypto.py|INST_REMOVE|Down|1542724259||2133||4||0|0|0||||
+18:37:04||affine.py|INST_NEW|Down|1542726796|7f4524e9ddb3ecd2277c1ac9257a7a02|1747|00027432ocdhcqykhhjt|4||0|0|0||||
+18:37:04||caesar.py|INST_NEW|Down|1542725690|4d46d517d4dc2dcf61c073832ff76b26|1366|00027428ocdhcqykhhjt|4||0|0|0||||
+#=#=#=# Syncrun finished 2018-11-23T18:37:06Z (last step: 2318 msec, total: 17763 msec)
+#=#=#=# Syncrun started 2018-11-23T18:37:13Z
+#=#=#=#=# Propagation starts 2018-11-23T18:37:14Z (last step: 646 msec, total: 646 msec)
+#=#=#=# Syncrun finished 2018-11-23T18:37:14Z (last step: 823 msec, total: 1469 msec)
